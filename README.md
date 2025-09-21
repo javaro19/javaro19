@@ -4,8 +4,8 @@
 - 🌱 I currently serve as the C.E.O. at **CfelTeam**, where we combine technology and business.
 - 👀 I’m deeply interested in programming, innovative tech solutions, and startup culture.
 - 📂 My technical skills include:
-  - Frontend: **HTML**, **CSS**, **JavaScript**
-  - Programming languages: **Java** and **C++** 
+  - Frontend: **HTML**, **CSS**
+  - Programming languages: **C++** and **JavaScript** 
 - 🚀 I enjoy building web and desktop applications, continuously improving my craft.
 - 💡 Always eager to learn, collaborate, and tackle challenging projects.
 
