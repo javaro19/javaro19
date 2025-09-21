@@ -1,6 +1,6 @@
 ## CfelTeam
 
-- 👋 Hi, I’m **Javarek** — passionate programmer and entrepreneur.
+- 👋 Hi, I’m **Javarek** - passionate programmer and entrepreneur.
 - 🌱 I currently serve as the C.E.O. at **CfelTeam**, where we combine technology and business.
 - 👀 I’m deeply interested in programming, innovative tech solutions, and startup culture.
 - 📂 My technical skills include:
@@ -11,4 +11,4 @@
 
 ---
 
-Feel free to connect or reach out — I’m open to new opportunities and collaborations!
+Feel free to connect or reach out - I’m open to new opportunities and collaborations!
