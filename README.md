@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Javarek/Javarek/main/kotek.gif" width="85" alt="pixel cat"/>
+  <img src="https://raw.githubusercontent.com/javaro19/javaro19/main/kotek.gif" width="85" alt="pixel cat"/>
 </p>
 
 
