@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpZWZ1bWtydzF0NmU0ZXRwd3JlZzlzdDZ2M3NidmhkaTdnOGd4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif" width="200"/>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/Javarek/Javarek/main/kotek.gif" width="85" alt="pixel cat"/>
 </p>
+
 
 ## 🌸 CfelTeam  
 
