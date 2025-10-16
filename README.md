@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/javaro19/javaro19/main/baner.gif" width="85" alt="baner"/>
-</p>
+  <img src="https://raw.githubusercontent.com/javaro19/javaro19/main/baner.gif" width="100%" alt="baner"/>
+</p>>
 
 
 ## 🌸 CfelTeam  
