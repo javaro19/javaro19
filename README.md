@@ -3,12 +3,12 @@
 </p>
 
 
-## 🌸 CfelTeam  
+## 🌸 ShizWare 
 
 > *“Technology with heart and creativity.”*  
 
 - 💖 Hi! I’m **Javarek** - a passionate programmer and entrepreneur who loves blending technology with emotion and creativity.  
-- 💼 Currently serving as the **C.E.O. of CfelTeam**, where we focus on innovation and creating truly unique projects.  
+- 💼 Currently serving as the **C.E.O of ShizWare**, where we focus on innovation and creating truly unique projects.  
 - 🌱 I enjoy exploring new technologies, combining code with design, and giving every project its own distinctive personality.  
 - 🧩 My main technical skills include:  
   - Frontend: **HTML**, **CSS**
