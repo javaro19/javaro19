@@ -2,20 +2,52 @@
   <img src="https://raw.githubusercontent.com/javaro19/javaro19/main/baner.gif" width="100%" height="250" alt="baner"/>
 </p>
 
-
 ## 🌸 JavarOwO
 
-> *“Technology builds the stairs to your dreams.”*  
+Hi! I'm **JavarOwO** - a programmer and creative mind who believes that great code should have both **precision and personality**. I love building things that are not only functional, but truly unique. 💖
 
-- 💖 Hi! I'm **JavarOwO** aka **Javarek** - a passionate programmer and entrepreneur who loves blending technology with emotion and creativity.  
-- 💼 Currently serving as the **C.E.O of ShizWare**, where we focus on innovation and creating truly unique projects.  
-- 🌱 I enjoy exploring new technologies, combining code with design, and giving every project its own distinctive personality.  
-- 🧩 My main technical skills include:  
-  - Frontend: **HTML**, **CSS**
-  - Programming languages: **C++**, **JavaScript**  
-- 🚀 I build both web and desktop applications, constantly improving my craft and seeking new inspiration.  
-- 💡 Always open to collaboration, learning, and creative challenges.  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-6cc644?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Available_for-Freelance-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Founded-ShizWare_Studio-ff69b4?style=for-the-badge"/>
+</p>
 
 ---
 
-✨ **Let's create projects of the highest standard together!**  
+### 👩‍💼 Experience
+
+- **Co-founder & C.E.O** of *ShizWare* - an indie dev studio I co-created and led for **2 years**, driving innovation and managing the full creative process.
+
+---
+
+### 🧩 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Desktop & Systems:** C++
+- **Databases:** SQL
+- **Tools:** Git
+
+---
+
+### 🚀 Projects
+
+- **Kazama** - A C++ utility library offering cross-platform console management, input handling, random number generation, string conversion, timing utilities and Windows console setup - all under a single `kazama::` namespace. Built so I can focus on project logic instead of rewriting boilerplate from scratch.
+- **Hormar Game** - A console-based RPG written in C++. A passion project where story meets systems programming.
+
+---
+
+### 💡 About Me
+
+- Always exploring new technologies and pushing my own boundaries
+- Open to collaboration, creative challenges and ambitious projects
+- I believe every project deserves its own soul
+
+---
+
+✨ *Let's build something worth remembering.*
