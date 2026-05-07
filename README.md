@@ -38,7 +38,8 @@ Hi! I'm **JavarOwO** - a programmer and creative mind who believes that great co
 ### 🚀 Projects
 
 - **Kazama** - A C++ utility library offering cross-platform console management, input handling, random number generation, string conversion, timing utilities and Windows console setup - all under a single `kazama::` namespace. Built so I can focus on project logic instead of rewriting boilerplate from scratch.
-- **Hormar Game** - A console-based RPG written in C++. A passion project where story meets systems programming.
+- **Hormar Game** - A console-based RPG written in C++. Features a turn-based combat system, character progression, gambling, a buy/sell shop, chapters with a full storyline, and diverse enemies each with unique statistics. Players can upgrade their character, choose to fight or flee, and track their overall game stats. Available on Windows and Linux.
+- **AmiOS** - A console-based operating system written entirely in C++ from scratch. Lightweight, powerful and privacy-focused - no data collection, no borrowed code, no shortcuts. Every component written by hand, from the ground up, by a single developer.
 
 ---
 
