@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/javaro19/javaro19/main/baner.gif" width="100%" height="250" alt="baner"/>
 </p>
 
-## 🌸 JavarOwO
+## 🌸 Lumi <3
 
 Hi! I'm **Lumi** - a programmer and creative mind who believes that great code should have both **precision and personality**. I love building things that are not only functional, but truly unique. 💖
 
