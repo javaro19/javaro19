@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/javaro19/javaro19/main/baner.gif" width="100%" height="250" alt="baner"/>
 </p>
 
-## 🌸 Lumi <3
+## 🌸 Mela
 
-Hi! I'm **Lumi** - a programmer and creative mind who believes that great code should have both **precision and personality**. I love building things that are not only functional, but truly unique. 💖
+Hi! I'm **Mela** - a programmer and creative mind who believes that great code should have both **precision and personality**. I love building things that are not only functional, but truly unique. 💖
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-Proficient-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
